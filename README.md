@@ -1,4 +1,4 @@
-# Aulas-POO-C-
+# Aulas-POO(C++)
 Exercícios das aulas de Programação Orientada à Objetos em C++ feitos na faculdade
 # Estrutura
 Exercício 1- Fazer um programa que leia n números reais (no máximo 100) e mostre a media sem os valores extremos (maior e menor valor)
